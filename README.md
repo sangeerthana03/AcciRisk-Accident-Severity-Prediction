@@ -115,7 +115,6 @@ Accident-Severity-Prediction/
 │
 ├── app.py
 ├── data.ipynb
-├── sample.ipynb
 ├── requirements.txt
 ├── README.md
 └── .gitignore
